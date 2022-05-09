@@ -39,6 +39,6 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## Stay in touch
 
 - Author - [Glenn all](https://www.linkedin.com/in/glenn-allogho-94649688/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Twitter - [@glenn_all](https://twitter.com/nestframework)
 
 
